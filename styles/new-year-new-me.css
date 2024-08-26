@@ -111,4 +111,27 @@
     height: 56px;
     border: 0;
     border-radius: 10px;
+} 
+
+/* Offer section */
+.offer-title{
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color: #FF0000;
+} 
+
+.offer-title-2{
+    font-family: "Merriweather", serif;
+}
+
+.offer-para{
+    color: #07021199;
+} 
+
+.year{
+    font-family: "Inter", sans-serif;
+    color: #FF0000;
+    font-weight: 700;
+    font-size: 48px;
 }
