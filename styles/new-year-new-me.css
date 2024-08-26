@@ -41,4 +41,74 @@
     margin-top: 400px;
     margin-bottom:100px;
     text-align: center;
+} 
+
+/* header */
+
+/* main */
+
+/* midnight party section */
+
+.midnight-party-img{
+    display: flex;
+    justify-content: center;
+} 
+
+.midnightparty-section-title{
+    position: absolute;
+    top: 2100px;
+    left: 500px;
+    color: #FFF;
+    font-weight: 900;
+    font-size: 64px;
+}
+
+.midnightparty-section-para-1{
+    position: absolute;
+    top: 2300px;
+    left: 500px;
+    color: #FFF;
+} 
+
+.midnightparty-section-para-2{
+    position: absolute;
+    top: 2350px;
+    left: 500px;
+    color: #FFF;
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+} 
+
+.midnightparty-img{
+    position: absolute;
+    top: 2100px;
+    left: 1100px;
+} 
+
+.timing{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+} 
+
+.timing-of-party{
+    position: absolute;
+    text-align: center;
+    top: 2900px;
+    left: 700px;
+    font-weight: 600;
+    font-size: 32px;
+} 
+
+.btn{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    width: 167px;
+    height: 56px;
+    border: 0;
+    border-radius: 10px;
 }
