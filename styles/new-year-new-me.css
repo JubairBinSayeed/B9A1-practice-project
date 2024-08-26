@@ -34,4 +34,11 @@
     left: 800px;
     text-align: center;
     color: #FFF;
+} 
+
+.all-categories-section{
+    color: red;
+    margin-top: 400px;
+    margin-bottom:100px;
+    text-align: center;
 }
