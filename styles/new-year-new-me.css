@@ -159,4 +159,18 @@
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-size: 72px;
+} 
+
+/* Newsletter section */
+.btn-primary{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    height: 30px;
+    border: 0;
+    margin-left: 200px;
+    margin-top: 2px;
+    border-radius: 50px;
+    position: absolute;
 }
